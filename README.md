@@ -5,6 +5,7 @@ MetaHuman DNA Tools is a tool set for processing DNA of MetaHuman. It's based on
 ## DNAViewer
 - Z-up for DNA Viewer.  
 - Default file path for DNA Viewer. 
+- Select or deselect all LODs quickly.
 
 # MetaHuman DNA Calibration
 MetaHuman DNA Calibration is a set of tools used for working with MetaHuman DNA files, bundled into a single package.
