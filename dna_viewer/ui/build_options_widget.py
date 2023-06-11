@@ -39,7 +39,7 @@ class BuildOptionsWidget(QWidget):
         build_options_label = QLabel("Build options:")
         self.layout.addWidget(build_options_label)
 
-        self.elements.select_all_meshes_cb = self.create_checkbox("all meshes", self.on_select_all_meshes_changed)
+        self.elements.select_all_meshes_cb = self.create_checkbox("all LODs", self.on_select_all_meshes_changed)
         self.elements.joints_cb = self.create_checkbox("joints", self.on_joints_changed)
         self.elements.blend_shapes_cb = self.create_checkbox(
             "blend shapes", self.on_generic_changed

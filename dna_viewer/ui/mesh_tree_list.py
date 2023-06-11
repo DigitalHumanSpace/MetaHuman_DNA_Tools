@@ -160,5 +160,5 @@ class MeshTreeList(QWidget):
         iterator = QTreeWidgetItemIterator(self.mesh_tree)
         while iterator.value():
             item = iterator.value()
-            item.setCheckState(1, Qt.Unchecked)
+            item.setCheckState(0, Qt.Unchecked)
             iterator += 1
