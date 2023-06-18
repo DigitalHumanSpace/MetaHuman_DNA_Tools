@@ -7,6 +7,18 @@ MetaHuman DNA Tools is a tool set for processing DNA of MetaHuman. It's based on
 - Default file path for DNA Viewer. 
 - Select or deselect all LODs quickly.
 
+# Installation Requirements
+Before using you need install python package `scipy`. 
+
+- Find the path of **maya.exe**. 
+- Goto the path in Windows cmd.  
+- Then use mayapy.exe to install python package scipy.
+
+```
+mayapy.exe -m pip install scipy  
+```
+
+
 # MetaHuman DNA Calibration
 MetaHuman DNA Calibration is a set of tools used for working with MetaHuman DNA files, bundled into a single package.
 DNA is an integral part of [MetaHuman](https://www.unrealengine.com/en-US/metahuman) identity.
