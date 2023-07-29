@@ -1,6 +1,9 @@
 # MetaHuman DNA Tools
 MetaHuman DNA Tools is a tool set for processing DNA of MetaHuman. It's based on [MetaHuman DNA Calibration 1.0.3](https://github.com/EpicGames/MetaHuman-DNA-Calibration/tree/1.0.3).  
 
+# Docs
+[数字人空间增强版MetaHuman DNA查看器保姆级安装和使用教程](https://www.bilibili.com/read/cv25377931)
+
 # New Features
 ## DNAViewer
 - Z-up for DNA Viewer.  
